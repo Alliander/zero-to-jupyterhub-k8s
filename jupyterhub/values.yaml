@@ -67,6 +67,7 @@ hub:
           - ipBlock:
               cidr: 0.0.0.0/0
   allowNamedServers: false
+  # existingSecret: existing-secret
 
 
 rbac:
